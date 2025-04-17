@@ -1,0 +1,4 @@
+First download and install the CUDA toolkit from https://developer.nvidia.com/cuda-downloads.
+For CUDA toolit version, see https://developer.nvidia.com/.
+If the CUDA toolkit version is v12.x (x86_64 / aarch64) then open powershell and write pip install cupy-cuda12x.
+If in case the CUDA toolkit version is v11.2 ~ 11.8 (x86_64 / aarch64) then the command is pip install cupy-cuda11x.
